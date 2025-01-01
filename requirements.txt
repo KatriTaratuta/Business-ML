@@ -1,0 +1,4 @@
+## requirements.txt
+pika
+pandas
+matplotlib
